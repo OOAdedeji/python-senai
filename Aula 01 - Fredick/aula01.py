@@ -1,0 +1,5 @@
+print ('Olá Mundo')
+print ('Bem vindo todos')
+print ('Boa tarde')
+print ('Vamos jogar?')
+print ('Estou com fome ')
